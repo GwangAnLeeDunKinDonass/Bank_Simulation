@@ -18,7 +18,7 @@
 
 ## 🛠 사용 프로그램
 - **Arena:** 공정 시뮬레이션 및 분석 도구  
-  - 설치 링크: [Arena 다운로드](https://www.arenasimulation.com/academic/students)  
+  - 설치 링크: [Arena 다운로드](https://www.rockwellautomation.com/en-us/products/software/arena-simulation/buying-options/download.html)  
   - **주요 기능:** Resource와 Schedule을 활용한 업무 시간 및 인원 배치 최적화
 
 ---
